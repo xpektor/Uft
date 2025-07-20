@@ -17,10 +17,6 @@ This repository presents a conceptual and mathematical framework for a Unified F
 - **Predictions & Falsifiability**
 - **The Baldur AGI Model** — a structured cognitive architecture built to test and reflect UFT's principles
 
-## 📄 How to Explore
-- Open `index.html` for a full interactive overview
-- Navigate through chapters using the embedded sidebar to view conceptual layers, field equations, implications, and thought experiments
-
 ## 📣 Author
 Karolis Kievisas  
 Reykjavík, Iceland  
